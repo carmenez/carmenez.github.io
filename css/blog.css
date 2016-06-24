@@ -1,6 +1,7 @@
 body {
     padding: 20px;
     padding-left:40px;
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -47,7 +48,7 @@ body {
 }
 
 img {
-    width: 400px;
+    width: 800px;
     max-width: 100%;
 }
 
