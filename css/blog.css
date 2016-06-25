@@ -1,9 +1,14 @@
 body {
     padding: 20px;
-    padding-left:40px;
+    padding-left: 40px;
     font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #eee;
 }
-
+h2 {
+    font-weight: normal;
+}
 
 .blog-footer {
     width: 100%;
@@ -13,8 +18,10 @@ body {
 }
 
 .sidebar {
-    float:left;
-    width: 80px;
+    position: fixed;
+    top: 10px;
+    left: 40px;
+    width: 150px;
 }
 
 .main-section {
@@ -22,6 +29,10 @@ body {
     margin-left: 100px;
     max-width: 800px;
     width: 60%;
+}
+
+.page-wrapper {
+    margin-left: 80px;
 }
 
 .page-wrapper:after {
@@ -34,6 +45,12 @@ body {
     margin-bottom: 40px;
 }
 
+.blog-title {
+    margin-bottom: 18px;
+    font-size: 1.5em;
+    letter-spacing: 6px;
+}
+
 .navlink {
     width: 100%;
     display:block;
@@ -44,7 +61,12 @@ body {
 }
 
 .blog-post-title {
-    margin-top: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.blog-post-meta {
+    margin-top: 0;
+    margin-bottom: 36px;
 }
 
 img {
