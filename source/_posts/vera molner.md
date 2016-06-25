@@ -8,7 +8,7 @@ tags:
 Zach’s class on Recreating the Past started with the “When the Machine made Art” a Troubled History of Computer art written in 1960’s.
 
 Vera::
-<a href="http://imgur.com/BR0XiJC"><img src="http://i.imgur.com/BR0XiJC.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/wO1Grra"><img src="http://i.imgur.com/wO1Grra.jpg" title="source: imgur.com" /></a>
 
 Carmen:
 <a href="http://imgur.com/VajepYl"><img src="http://i.imgur.com/VajepYl.png" title="source: imgur.com" /></a>
