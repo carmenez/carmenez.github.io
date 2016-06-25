@@ -1,5 +1,5 @@
 ---
-title: SFPC Salon
+title: sfpc salon
 date: 2016-06-06 00:31:55
 tags:
 ---
@@ -12,7 +12,7 @@ Be Agressively Curious
 
 <a href="http://imgur.com/aSpXzaJ"><img src="http://i.imgur.com/aSpXzaJ.jpg" title="source: imgur.com" /></a>
 
-Try to be a collector
+<div class="post-center">Try to be a collector
 
 The world is hungry for your ideas
 
@@ -30,13 +30,13 @@ Take your time to learn things
 
 Surround yourself with people that help you understand your value & are supportive.
 
-APPLY TO EVRYTHING!
+APPLY TO EVRYTHING!</div>
 
 <a href="http://imgur.com/z1yBBvv"><img src="http://i.imgur.com/z1yBBvv.jpg" title="source: imgur.com" /></a>
 
 
 <a href="http://imgur.com/3zTtEkq"><img src="http://i.imgur.com/3zTtEkq.jpg" title="source: imgur.com" /></a>
-<br>
+
 
 Juliette Bibasse
 <a href="http://imgur.com/285rtDf"><img src="http://i.imgur.com/285rtDf.jpg" title="source: imgur.com" /></a>
