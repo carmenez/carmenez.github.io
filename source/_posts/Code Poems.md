@@ -17,15 +17,9 @@ I took an existing heart beat code. One that is used on android devices. This co
 
 Re-writing this poem gave me a heart. 
 
-I bought a man a pastry, he smelled of long days without a shower. His bags filled with newspapers, his winter clothes wrapped around his waist.  He acted as if he was invisible. 
+I bought a man a pastry, he smelled of long days without a shower. His bags filled with newspapers, his winter clothes wrapped around his waist.  He acted as if he was invisible, floating through society-unacknowledged, unknown.
 
-Arduino Translated Code:
-<a href="http://i.imgur.com/aWZsdUg.png"><img src="http://i.imgur.com/aWZsdUg.png" /></a>
-
-Arduino Original Code:
-<a href="http://i.imgur.com/toAUfNC.png"><img src="http://i.imgur.com/toAUfNC.png" /></a>
-
-many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if's.  
+Many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if's.  
 Forced to create breakpoints in order to debug the entire source code.  I'm living a long complicated code, un-tabbed & messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.
 
-<a href="http://i.imgur.com/wWX2CO4.png"><img src="http://i.imgur.com/wWX2CO4.png" /></a> 
+<a href="http://i.imgur.com/yfAt2Gu.png"><img src="http://i.imgur.com/yfAt2Gu.png" /></a> 
