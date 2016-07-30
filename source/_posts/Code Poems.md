@@ -1,6 +1,6 @@
 ---
 title: Arduino_latidos del corazon
-date: 2016-06-12 14:05:53
+date: 2016-07-12 14:05:53
 tags:
 ---
 <a href="http://i.imgur.com/2w18Hpm.png"><img src="http://i.imgur.com/2w18Hpm.png" /></a>
@@ -26,7 +26,6 @@ Arduino Original Code:
 <a href="http://i.imgur.com/toAUfNC.png"><img src="http://i.imgur.com/toAUfNC.png" /></a>
 
 many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if's.  
-
-I've recently lost someone and have felt trapped in the void loop. Forced to create breakpoints in order to debug the entire source code.  Its a long complicated code, un-tabbed & messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.
+Forced to create breakpoints in order to debug the entire source code.  I'm living a long complicated code, un-tabbed & messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.
 
 <a href="http://i.imgur.com/wWX2CO4.png"><img src="http://i.imgur.com/wWX2CO4.png" /></a> 
