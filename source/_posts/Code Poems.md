@@ -22,4 +22,4 @@ I bought a man a pastry, he smelled of long days without a shower. His bags fill
 Many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if's.  
 Forced to create breakpoints in order to debug the entire source code.  I'm living a long complicated code, un-tabbed & messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.
 
-<a href="http://i.imgur.com/yfAt2Gu.png"><img src="http://i.imgur.com/yfAt2Gu.png" /></a> 
+<a href="http://i.imgur.com/yfAt2Gu.png"><img class="img-small" src="http://i.imgur.com/yfAt2Gu.png" /></a> 
