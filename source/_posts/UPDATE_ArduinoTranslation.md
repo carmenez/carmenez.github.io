@@ -1,24 +1,32 @@
 ---
-title: sans google
+title: Arduino_latidos del corazon
 date: 2016-06-12 14:05:53
 tags:
 ---
-<a href="http://imgur.com/0P2uLbg"><img src="http://i.imgur.com/0P2uLbg.png" title="source: imgur.com" /></a>
+<a href="http://i.imgur.com/2w18Hpm.png"><img src="http://i.imgur.com/2w18Hpm.png" /></a>
 
-We met with Nick Monfort, http://nickm.com/, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.
-We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:
+Code poem
 
-<a href="http://imgur.com/rMoRtAX"><img src="http://i.imgur.com/rMoRtAX.jpg" title="source: imgur.com" /></a>
+I spent hours deliberating over logic, thinking, rules, and wrestling with the vast unknown of code, poetry, and translation.
 
-1952 Memory Slam- Early generated text to produce love letters.
-     input: punch cards
-     output: tele typewriter
-can a machine be capable of expression
-empty words- makes a statement about the love letter – meaningless?
-phatic speach-no meaning (no information)
-is the meaning made from the interpreter
-ambiguous authorship-machine or programmer
-historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?
-He showed us how to play with the script using javascript or python and invited us to create our own poetry.
+I barely trust myself. I forget that my experience has cultivated an aesthetic. I need to trust my instinct. I'm a maker. A designer and I'm a retired engineer. 
 
+For the past few years I have been using the arduino platform to creat fantastical-Exploratorium feeling projects so it's a platform I'm familiar with.  I delivered a translation program. 
 
+I took an existing heart beat code. One that is used on android devices. This code, in English, is simple, turns on pins to high and low. 
+
+Re-writing this poem gave me a heart. 
+
+I bought a man a pastry, he smelled of long days without a shower. His bags filled with newspapers, his winter clothes wrapped around his waist.  He acted as if he was invisible. 
+
+Arduino Translated Code:
+<a href="http://i.imgur.com/aWZsdUg.png"><img src="http://i.imgur.com/aWZsdUg.png" /></a>
+
+Arduino Original Code:
+<a href="http://i.imgur.com/toAUfNC.png"><img src="http://i.imgur.com/toAUfNC.png" /></a>
+
+many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if's.  
+
+I've recently lost someone and have felt trapped in the void loop. Forced to create breakpoints in order to debug the entire source code.  Its a long complicated code, un-tabbed & messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.
+
+<a href="http://i.imgur.com/wWX2CO4.png"><img src="http://i.imgur.com/wWX2CO4.png" /></a> 
