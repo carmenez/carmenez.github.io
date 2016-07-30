@@ -73,6 +73,10 @@ h2 {
     text-align: center;
 }
 
+.img-small {
+    width: 400px;
+}
+
 img {
     width: 600px;
     max-width: 100%;

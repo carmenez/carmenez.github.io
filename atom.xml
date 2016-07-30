@@ -45,7 +45,7 @@
     <link href="http://carmenez.github.io/2016/07/12/Code%20Poems/"/>
     <id>http://carmenez.github.io/2016/07/12/Code Poems/</id>
     <published>2016-07-12T18:05:53.000Z</published>
-    <updated>2016-07-30T20:58:01.000Z</updated>
+    <updated>2016-07-30T21:00:52.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/2w18Hpm.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/2w18Hpm.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Code poem&lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;p&gt;Re-writing this poem gave me a heart. &lt;/p&gt;
 &lt;p&gt;I bought a man a pastry, he smelled of long days without a shower. His bags filled with newspapers, his winter clothes wrapped around his waist.  He acted as if he was invisible, floating through society-unacknowledged, unknown.&lt;/p&gt;
 &lt;p&gt;Many things sweetly translate when seen through code.  the complications of loss and love can be simplified to booleans, vars, longs, and if’s.&lt;br&gt;Forced to create breakpoints in order to debug the entire source code.  I’m living a long complicated code, un-tabbed &amp;amp; messy.  missing comments it has become unclear, but runs forever, although over time glitches, gets slow, breaks, and is unable to compile.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/yfAt2Gu.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/yfAt2Gu.png&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/yfAt2Gu.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;img-small&quot; src=&quot;http://i.imgur.com/yfAt2Gu.png&quot;&gt;&lt;/a&gt; &lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -238,77 +238,40 @@
   </entry>
   
   <entry>
+    <title>face++</title>
+    <link href="http://carmenez.github.io/2016/06/12/language/"/>
+    <id>http://carmenez.github.io/2016/06/12/language/</id>
+    <published>2016-06-12T18:05:53.000Z</published>
+    <updated>2016-07-09T00:05:43.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Face++ started from SnapChat.  We were swapping faces and noticed that there were a few facial recognition commands that the application recognized. We decided to expand our language from a – “Open your mouth” and “Raise your eyebrows” – to 16 different facial expressions.&lt;br&gt;We decided to figure out a way to write a programming language that would run on laughter.  You can write using your face and once you’ve created your code, trigger laughter to compile and run it.  Melanie pointed out that this would actually be a great programming language for people with disabilities, more specifically targeting those who are paralyzed from the neck down.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/TENeAVa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/TENeAVa.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/00KtvGv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/00KtvGv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/EvMQB8i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/EvMQB8i.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Experimenting a little bit with the code, we switched in some images from the Codex Seraphinianus to generate some beautiful tiling patterns, resulting in the featured image.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/170358067&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/170358067&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;codex&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/hyphenlabs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hyphen_labs&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some other really beautiful coding languages were created.  Melanie translated a simple, “helloWorld” to 7 of the most common languages. And Max created a mobile to hang above your babies crib so your child can get familiar with coding(?). KristaAnn created a programming language from Tarot Cards, and Min created instructions for programmers. (i think)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>platform</title>
     <link href="http://carmenez.github.io/2016/06/12/code%20&%20platform/"/>
     <id>http://carmenez.github.io/2016/06/12/code & platform/</id>
     <published>2016-06-12T18:05:53.000Z</published>
     <updated>2016-06-25T21:45:26.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>goals</title>
-    <link href="http://carmenez.github.io/2016/06/12/UPDATE%20we_walked/"/>
-    <id>http://carmenez.github.io/2016/06/12/UPDATE we_walked/</id>
-    <published>2016-06-12T18:05:53.000Z</published>
-    <updated>2016-07-10T13:26:43.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>sans google</title>
-    <link href="http://carmenez.github.io/2016/06/12/UPDATE-machineLearing/"/>
-    <id>http://carmenez.github.io/2016/06/12/UPDATE-machineLearing/</id>
-    <published>2016-06-12T18:05:53.000Z</published>
-    <updated>2016-07-10T13:25:13.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>sans google</title>
-    <link href="http://carmenez.github.io/2016/06/12/UPDATE_diversity&accessibility/"/>
-    <id>http://carmenez.github.io/2016/06/12/UPDATE_diversity&accessibility/</id>
-    <published>2016-06-12T18:05:53.000Z</published>
-    <updated>2016-07-10T13:25:13.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
@@ -392,28 +355,65 @@
   </entry>
   
   <entry>
-    <title>face++</title>
-    <link href="http://carmenez.github.io/2016/06/12/language/"/>
-    <id>http://carmenez.github.io/2016/06/12/language/</id>
+    <title>sans google</title>
+    <link href="http://carmenez.github.io/2016/06/12/UPDATE_diversity&accessibility/"/>
+    <id>http://carmenez.github.io/2016/06/12/UPDATE_diversity&accessibility/</id>
     <published>2016-06-12T18:05:53.000Z</published>
-    <updated>2016-07-09T00:05:43.000Z</updated>
+    <updated>2016-07-10T13:25:13.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Face++ started from SnapChat.  We were swapping faces and noticed that there were a few facial recognition commands that the application recognized. We decided to expand our language from a – “Open your mouth” and “Raise your eyebrows” – to 16 different facial expressions.&lt;br&gt;We decided to figure out a way to write a programming language that would run on laughter.  You can write using your face and once you’ve created your code, trigger laughter to compile and run it.  Melanie pointed out that this would actually be a great programming language for people with disabilities, more specifically targeting those who are paralyzed from the neck down.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/TENeAVa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/TENeAVa.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/00KtvGv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/00KtvGv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/EvMQB8i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/EvMQB8i.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Experimenting a little bit with the code, we switched in some images from the Codex Seraphinianus to generate some beautiful tiling patterns, resulting in the featured image.&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/170358067&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/170358067&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;codex&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/hyphenlabs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hyphen_labs&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some other really beautiful coding languages were created.  Melanie translated a simple, “helloWorld” to 7 of the most common languages. And Max created a mobile to hang above your babies crib so your child can get familiar with coding(?). KristaAnn created a programming language from Tarot Cards, and Min created instructions for programmers. (i think)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>goals</title>
+    <link href="http://carmenez.github.io/2016/06/12/UPDATE%20we_walked/"/>
+    <id>http://carmenez.github.io/2016/06/12/UPDATE we_walked/</id>
+    <published>2016-06-12T18:05:53.000Z</published>
+    <updated>2016-07-10T13:26:43.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>sans google</title>
+    <link href="http://carmenez.github.io/2016/06/12/UPDATE-machineLearing/"/>
+    <id>http://carmenez.github.io/2016/06/12/UPDATE-machineLearing/</id>
+    <published>2016-06-12T18:05:53.000Z</published>
+    <updated>2016-07-10T13:25:13.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We met with Nick Monfort, &lt;a href=&quot;http://nickm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://nickm.com/&lt;/a&gt;, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.&lt;br&gt;We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/rMoRtAX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/rMoRtAX.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1952 Memory Slam- Early generated text to produce love letters.&lt;br&gt;     input: punch cards&lt;br&gt;     output: tele typewriter&lt;br&gt;can a machine be capable of expression&lt;br&gt;empty words- makes a statement about the love letter – meaningless?&lt;br&gt;phatic speach-no meaning (no information)&lt;br&gt;is the meaning made from the interpreter&lt;br&gt;ambiguous authorship-machine or programmer&lt;br&gt;historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?&lt;br&gt;He showed us how to play with the script using javascript or python and invited us to create our own poetry.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
     
     </summary>
     
