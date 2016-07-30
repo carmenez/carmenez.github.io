@@ -1,6 +1,6 @@
 ---
 title: autonomous network
-date: 2016-06-12 14:05:53
+date: 2016-06-28 14:05:53
 tags:
 ---
 Prompt: Create an autonomous online network
