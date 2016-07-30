@@ -1,5 +1,5 @@
 ---
-title: autonomous network
+title: sans google
 date: 2016-06-12 14:05:53
 tags:
 ---
