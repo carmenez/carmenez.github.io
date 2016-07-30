@@ -3,22 +3,12 @@ title: autonomous network
 date: 2016-06-12 14:05:53
 tags:
 ---
-<a href="http://imgur.com/0P2uLbg"><img src="http://i.imgur.com/0P2uLbg.png" title="source: imgur.com" /></a>
+Prompt: Create an autonomous online network
 
-We met with Nick Monfort, http://nickm.com/, MIT associate professor, and super human.  A friendly code master he introduced us to the Demoscene, a meet up for people who like to compete and show their computational skills.
-We started his class learning about some of his work and jumped into playing around with some of the code he has written. We first talked about:
+well, what is an autonomous network?
 
-<a href="http://imgur.com/rMoRtAX"><img src="http://i.imgur.com/rMoRtAX.jpg" title="source: imgur.com" /></a>
+an autonomous network allows the users to deflect "normal" networking systems. I decided to create an autonomous network for the MTA riders.  Having been part of the design and maintenance of Bay Area Rapid Transit (BART) and a public transit rider, I have experienced the "unknown delay." Often I think about how the underground experience is without internet, and its users have  to depend on the train conductor to get information about the status of our charriot. What is happening? How long will we be here? Can I take another change? NO SIGNAL, results in confused, aggrivated, and unhappy commuters.  
 
-1952 Memory Slam- Early generated text to produce love letters.
-     input: punch cards
-     output: tele typewriter
-can a machine be capable of expression
-empty words- makes a statement about the love letter – meaningless?
-phatic speach-no meaning (no information)
-is the meaning made from the interpreter
-ambiguous authorship-machine or programmer
-historically: love letters written by someone other than the person who is sending them. so is the machine doing labor? is this a business application?
-He showed us how to play with the script using javascript or python and invited us to create our own poetry.
+What if a [mesh] network could exist so individuals could get real time information from somewhere above the water table.  If a train has been stopped for more than 10 minutes, an autonomous network would appear and allow us to find out from news sources if there has been a malfunction, an attack, any issue that has caused the infrastructure to stop performing and alert us to alternatives on how to move around, giving us control of our commute.
 
-
+<a href="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg"><img src="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg" title="source: lineposters.com" /></a>
