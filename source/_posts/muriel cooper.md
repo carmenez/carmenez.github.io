@@ -12,6 +12,7 @@ Muriel::
 
 
 Carmen:
-<a href="http://imgur.com/rpcqhWS"><img src="http://imgur.com/rpcqhWS" /></a>
+<iframe src="https://player.vimeo.com/video/176864468" width="640" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/176864468">MIT_remix</a> from <a href="https://vimeo.com/carmenez">carmenez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-I will continue to investigate and explore possible alternatives upon completion of the class, to be updates here.
+I will continue to investigate and explore possible alternatives upon completion of the class, to be updates here
