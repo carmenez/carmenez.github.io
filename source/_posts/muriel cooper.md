@@ -8,7 +8,7 @@ tags:
 Investigating past computational artists led us to get to know the work of Muriel Cooper and John Maeda.  I am inspired by these images: 
 
 Muriel::
-<a href="http://imgur.com/xOcV6A5"><img src="http://i.imgur.com/xOcV6A5.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/xOcV6A5"><img class="img-small" src="http://i.imgur.com/xOcV6A5.jpg" title="source: imgur.com" /></a>
 
 
 Carmen:
