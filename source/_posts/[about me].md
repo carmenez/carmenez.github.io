@@ -1,6 +1,6 @@
 ---
 title: Carmen Aguilar y Wedge
-date: 2016-04-1986 14:05:53
+date: 1986-04-24 14:05:53
 tags:
 ---
 <a href="http://i.imgur.com/CsHoEsj.png"><img src="http://i.imgur.com/CsHoEsj.png" /></a>
