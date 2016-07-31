@@ -3,7 +3,7 @@ title: pillbox.0
 date: 2016-07-15 14:05:53
 tags:
 ---
-<a href="http://i.imgur.com/Mw4i7dc.gifv"><img src="http://i.imgur.com/Mw4i7dc.gifv" /></a>
+<a href="http://i.imgur.com/Mw4i7dc.gif"><img src="http://i.imgur.com/Mw4i7dc.gif" /></a>
 
 I've had the idea for a pill box that gently reminds its user to take a pill, if one of the boxes hadn't been opened for the past 24 hours.  My mom, a daily pill user as well as other friends who have been diagnosed with chronic diseases have often told me that it is incredibly difficult for them to remember their daily, weekly, or bi-weekly medical routine.  
 
