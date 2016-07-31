@@ -28,8 +28,5 @@ I can't remember specifics of puReality, but certain things seem familiar.  I kn
 I didnt leave very good documentation, no "how to" "readMe.md" and nothing published to github.io.  Looking back, most of my projects 
 looked like they were made it in a weekend staying up on red bulls. electrical tape and wire...plus you can tell its from 2016 from the Solder Job.  looks like it was all done with a fisher price, my first soldering kit. I did design the heart+brain: the chip + code, here it is-protected and packaged in a little 3D printed box (probably a makerbot, soo vintage you can even see the filament), designed and milled and programmed by your's truely.  Most parts of  puReality are blurry, but something feels familiar, maybe its an emotion i've lost-touching something physical, reminds me of a life past, forgotten, updated, and replaced. 
 
-*/
-	
-}
 
 
