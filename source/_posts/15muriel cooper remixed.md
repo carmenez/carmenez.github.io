@@ -1,6 +1,6 @@
 ---
 title: muriel cooper remix
-<!--date: 2016-07-14 14:05:53-->
+date: 2016-07-14 14:05:53
 tags:
 order: 80
 ---

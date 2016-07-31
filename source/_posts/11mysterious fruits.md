@@ -1,6 +1,6 @@
 ---
 title: mysterious fruits
-<!--date: 2016-06-28 14:05:53-->
+date: 2016-06-28 14:05:53
 tags:
 order: 60
 ---

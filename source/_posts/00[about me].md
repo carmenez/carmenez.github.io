@@ -1,6 +1,6 @@
 ---
 title: about carmen
-<!--date: 1986-04-24 14:05:53-->
+date: 1986-04-24 14:05:53
 tags:
 order:1
 ---

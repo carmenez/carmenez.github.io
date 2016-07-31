@@ -1,6 +1,6 @@
 ---
 title: sfpc salon
-<!--date: 2016-06-06 00:31:55-->
+date: 2016-06-06 00:31:55
 tags:
 order: 20
 ---

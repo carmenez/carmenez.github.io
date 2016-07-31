@@ -1,6 +1,6 @@
 ---
 title: platform subversion
-<!--date: 2016-07-08 14:05:53-->
+date: 2016-07-08 14:05:53
 tags:
 order:70
 ---

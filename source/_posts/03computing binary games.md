@@ -1,6 +1,6 @@
 ---
 title: binary games
-<!--date: 2016-06-03-->
+date: 2016-06-03
 tags:
 order: 15
 
