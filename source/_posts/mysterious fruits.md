@@ -13,3 +13,8 @@ dali blueberries
 
 Gene Kogan came in and spoke with us about machine learning.  Nahee taught me how to do style transfers with robots and fruits.
 
+<a href="http://i.imgur.com/WMF3mtt.jpg"><img src="http://i.imgur.com/WMF3mtt.jpg" /></a>
+
+<a href="http://i.imgur.com/WMF3mtt.jpg"><img src="http://i.imgur.com/WMF3mtt.jpg" /></a>
+
+
