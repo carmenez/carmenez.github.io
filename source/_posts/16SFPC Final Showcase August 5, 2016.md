@@ -5,4 +5,4 @@ tags:
 ---
 <a href="http://i.imgur.com/NzeXNpq.png"><img src="http://i.imgur.com/NzeXNpq.png"/></a>
 
-SFPC final showcase & student exhibition
+SFPC final showcase & student exhibition.
