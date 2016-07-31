@@ -83,24 +83,82 @@
   </entry>
   
   <entry>
-    <title>mysterious fruits</title>
-    <link href="http://carmenez.github.io/2016/06/23/10mysterious%20fruits/"/>
-    <id>http://carmenez.github.io/2016/06/23/10mysterious fruits/</id>
+    <title>binary games</title>
+    <link href="http://carmenez.github.io/2016/06/23/03computing%20binary%20games/"/>
+    <id>http://carmenez.github.io/2016/06/23/03computing binary games/</id>
     <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T02:25:30.000Z</updated>
+    <updated>2016-07-31T03:02:13.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/9JjYWVX.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/9JjYWVX.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a cezanne bananna&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/KMeM3t0.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;img-xsmall&quot; src=&quot;http://i.imgur.com/KMeM3t0.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;dali blueberries&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/Aqf4DB7.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;img-xsmall&quot; src=&quot;http://i.imgur.com/Aqf4DB7.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gene Kogan came in and spoke with us about machine learning.  Nahee taught me how to do style transfers with robots and fruits.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/WMF3mtt.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WMF3mtt.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/skOedz3.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/skOedz3.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/YUp3xFH&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/YUp3xFH.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;/p&gt;
+&lt;p&gt;Creating Binary Games was really challenging fun.  Individuals moved between systems for teaching binary as well as tools for quick conversion of binary numbers to base 10 numbers.  Min and I came up with Binary Stairs, a combination of twister and musical chairs.  In this 2 player game, the values of each bit are placed on a stair.  Anyone calls out a number or binary code and you have to touch each bit that represents the base 10 number or binary pattern. Nahee and brandon each came up with a great ways to teach binary using a rescuing scenario board game and a measured representations of the bits to get their corresponding bit pattern.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Programming: lets discuss and demystify.  Just talking vocabulary…&lt;/p&gt;
+&lt;p&gt;what is computation? Numbers? Computers? Processes that solve and translate? here are our thoughts.&lt;/p&gt;
+&lt;p&gt;:: input/output :: symbols :: memory :: usb :: processor [cpu] :: sensors [keyboard &amp;amp; mouse] :: output [screen] :: I/O busses :: wifi :: conductive :: abstraction/modeling :: metal :: silicon :: copper :: fans :: temperature :: capacitors :: resistors :: batteries :: lights :: motherboard :: electricity ::&lt;/p&gt;
+&lt;p&gt;these words reminds me of a functioning 22nd century city- maybe an electric city with radiant atmospheres.  I could even imagine this city as a virtual model with integrated sensors aka. people called capacitors.  The rebels, who want to mix reality are the resistors.  but the motherboard doesn’t like the symbol of freedom so they are taken to the batteries via I/O busses driven by wifi memory conductors to be processed.  high temperatures spilling blood and light out of usbs installed on resistor wrists.   high fans built of metal cool silicon and copper models being made by capacitors.  only 10110110 11010111 left.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Programming: lets discuss and demystify.  Just talking vocabulary…&lt;/p&gt;
+&lt;p&gt;what is computation? Numbers? Computers? Processes that solve and translate? here are our thoughts.&lt;/p&gt;
+&lt;p&gt;:: input/output :: symbols :: memory :: usb :: processor [cpu] :: sensors [keyboard &amp;amp; mouse] :: output [screen] :: I/O busses :: wifi :: conductive :: abstraction/modeling :: metal :: silicon :: copper :: fans :: temperature :: capacitors :: resistors :: batteries :: lights :: motherboard :: electricity ::&lt;/p&gt;
+&lt;p&gt;these words reminds me of a functioning 22nd century city- maybe an electric city with radiant atmospheres.  I could even imagine this city as a virtual model with integrated sensors aka. people called capacitors.  The rebels, who want to mix reality are the resistors.  but the motherboard doesn’t like the symbol of freedom so they are taken to the batteries via I/O busses driven by wifi memory conductors to be processed.  high temperatures spilling blood and light out of usbs installed on resistor wrists.   high fans built of metal cool silicon and copper models being made by capacitors.  only 10110110 11010111 left.&lt;/p&gt;
+&lt;p&gt;I guess thats an accurate representation of my brain-short tangential distractions welcome.&lt;/p&gt;
+&lt;p&gt;&amp;mdash; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/sJPpPlx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/sJPpPlx.jpg?1&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Building-Blocks-of-Code&quot;&gt;&lt;a href=&quot;#Building-Blocks-of-Code&quot; class=&quot;headerlink&quot; title=&quot;Building Blocks of Code:&quot;&gt;&lt;/a&gt;Building Blocks of Code:&lt;/h3&gt;&lt;p&gt;Command Line :: terminal, Scode, editors&lt;/p&gt;
+&lt;p&gt;IDE :: integrated development environment [examples: processing &amp;amp; arduino]&lt;/p&gt;
+&lt;p&gt;Function :: the relationship between input and output, the method &amp;amp; actions&lt;/p&gt;
+&lt;p&gt;Control Structure :: Loop :: repetition :: IF :: conditional&lt;/p&gt;
+&lt;p&gt;Variable :: holds a value, small units, can change&lt;/p&gt;
+&lt;p&gt;Object :: class&lt;/p&gt;
+&lt;p&gt;Alert :: debugging, walkthrough, log, breakpoint&lt;/p&gt;
+&lt;p&gt;Data Structure :: array :: way to store info&lt;/p&gt;
+&lt;p&gt;Operators :: +  –  *   /&lt;/p&gt;
+&lt;p&gt;Syntax :: . ( ) [ ] ;&lt;/p&gt;
+&lt;p&gt;Data Types :: float :: int :: string ::&lt;/p&gt;
+&lt;p&gt;Library :: pre-made functions and variables available for “calling”&lt;/p&gt;
+&lt;p&gt;constant :: gravity :: pi :: global or user defined&lt;/p&gt;
+&lt;p&gt;Console :: environment&lt;/p&gt;
+&lt;p&gt;Comments :: //text [not processed]&lt;/p&gt;
+&lt;p&gt;Protection :: public : accessible everywhere :: private :: inaccessible [secret]&lt;/p&gt;
+&lt;p&gt;Scope :: what an element means in context&lt;/p&gt;
+&lt;p&gt;Compilation :: parsing :: white space removed :: goes through text :: assembly:: machine code :: binary&lt;/p&gt;
+&lt;p&gt;Imperative//Declarative//Functional&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/9JjYWVX.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/9JjYWVX.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;a cezanne b
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/YUp3xFH&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/YUp3xFH.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>face++</title>
+    <link href="http://carmenez.github.io/2016/06/23/05face++/"/>
+    <id>http://carmenez.github.io/2016/06/23/05face++/</id>
+    <published>2016-06-23T22:08:33.000Z</published>
+    <updated>2016-07-31T03:02:14.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Face++ started from SnapChat.  We were swapping faces and noticed that there were a few facial recognition commands that the application recognized. We decided to expand our language from a – “Open your mouth” and “Raise your eyebrows” – to 16 different facial expressions.&lt;br&gt;We decided to figure out a way to write a programming language that would run on laughter.  You can write using your face and once you’ve created your code, trigger laughter to compile and run it.  Melanie pointed out that this would actually be a great programming language for people with disabilities, more specifically targeting those who are paralyzed from the neck down.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/TENeAVa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/TENeAVa.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/00KtvGv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/00KtvGv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/EvMQB8i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/EvMQB8i.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Experimenting a little bit with the code, we switched in some images from the Codex Seraphinianus to generate some beautiful tiling patterns, resulting in the featured image.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/170358067&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/170358067&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;codex&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/hyphenlabs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hyphen_labs&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some other really beautiful coding languages were created.  Melanie translated a simple, “helloWorld” to 7 of the most common languages. And Max created a mobile to hang above your babies crib so your child can get familiar with coding(?). KristaAnn created a programming language from Tarot Cards, and Min created instructions for programmers. (i think)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
     
     </summary>
     
@@ -123,33 +181,6 @@
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;http://imgur.com/0P2uLbg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/0P2uLbg.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>sfpc salon</title>
-    <link href="http://carmenez.github.io/2016/06/23/04sfpcSalon/"/>
-    <id>http://carmenez.github.io/2016/06/23/04sfpcSalon/</id>
-    <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T03:02:11.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/pjF4ln4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/pjF4ln4.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We didn’t have class today, but we got to see some amazing speakers as well as spend some time in the space.&lt;/p&gt;
-&lt;p&gt;As I am looking over my notes these are the things that stand out to me:&lt;br&gt;Be Agressively Curious&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/aSpXzaJ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/aSpXzaJ.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;post-center&quot;&gt;Try to be a collector&lt;br&gt;&lt;br&gt;The world is hungry for your ideas&lt;br&gt;&lt;br&gt;Questions lead to conversations which lead to learning&lt;br&gt;&lt;br&gt;Ask about anything…SFPC’s resources work for us now&lt;br&gt;&lt;br&gt;Together we know more&lt;br&gt;&lt;br&gt;Simplicity is key&lt;br&gt;&lt;br&gt;Artistic practice is research&lt;br&gt;&lt;br&gt;Take your time to learn things&lt;br&gt;&lt;br&gt;Surround yourself with people that help you understand your value &amp;amp; are supportive.&lt;br&gt;&lt;br&gt;APPLY TO EVRYTHING!&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/z1yBBvv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/z1yBBvv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/3zTtEkq&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/3zTtEkq.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Juliette Bibasse&lt;br&gt;&lt;a href=&quot;http://imgur.com/285rtDf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/285rtDf.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://imgur.com/Ac7Aajr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Ac7Aajr.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/pjF4ln4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/pjF4ln4.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
     
     </summary>
     
@@ -181,25 +212,18 @@
   </entry>
   
   <entry>
-    <title>sfpc 101</title>
-    <link href="http://carmenez.github.io/2016/06/23/01sfpc101/"/>
-    <id>http://carmenez.github.io/2016/06/23/01sfpc101/</id>
+    <title>joyDivision</title>
+    <link href="http://carmenez.github.io/2016/06/23/14joyDivision/"/>
+    <id>http://carmenez.github.io/2016/06/23/14joyDivision/</id>
     <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T03:02:10.000Z</updated>
+    <updated>2016-07-31T03:04:40.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/txQihZ6.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/txQihZ6.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash;The space ship has docked, I met the other life forms that will be attending the school for poetic computation for the next 10 weeks with me. output:  clear, concise, art and code.&amp;mdash; 16 new humans!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/fYrDP3E.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/fYrDP3E.png&quot;&gt;&lt;/a&gt;we asked questions, some of mine were:&lt;/p&gt;
-&lt;p&gt;what insights curiosity? self ignition? How can we engage “hands-free”? How can I bring the SFPC pedagogy {i learned a new word}  to life/career/institutions? What are important questions to ask when making interactive art? How do you decide the scale? How do you make interactive art’s tech reliable? hardware? software? How much do technical skills matter? What topics are best for new media art?  What is practical cryptology? How does creativity in the process–shape our life experience? How do I make the process a project? to manage and FINISH projects? How about making this a business? How do I openframeworks? How can I incorporate code art on the digital platform into or translate it to the physical object or experience? How do I make experiences that everyone can/wants to engage in?&lt;br&gt;sfpc Code of Conduct [do’s &amp;amp; dont’s] +we met dan shiffman! 01001111 01001101 01000111 !!&lt;/p&gt;
-&lt;p&gt;////////////////////////////////////////////////////////////////////////////////////////////////&lt;/p&gt;
-&lt;p&gt;constraint: within 10 blocks N+S of SFPC look for:&lt;/p&gt;
-&lt;p&gt;the tiniest street&lt;br&gt;residents who have lived here the longest [55 years]&lt;br&gt;variety of languages [german, swahili, urdu, spanish, (lil’bit)japanese]&lt;br&gt;the most expensive thing [$160,000 4Karat diamond]&lt;br&gt;art [high line – one billion beta selfies]&lt;br&gt;tourists taking pictures&lt;br&gt;most interesting book &amp;amp; magazine [kim jong il looking at things/&lt;strong&gt;_&lt;/strong&gt;]&lt;br&gt;make a map of the area&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Ya0Z8hy.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/qWQYjmi.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/j188MgE.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/SkqEw8C.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IX3KuAu.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/alJI3eL.png&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/LDmrCrE.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LDmrCrE.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/txQihZ6.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/txQih
+      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/LDmrCrE.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LDmrCrE.png&quot; title=&quot;source: imgur.co
     
     </summary>
     
@@ -234,6 +258,57 @@
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;http://imgur.com/b83ieOC&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/b83ieOC.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>sfpc 101</title>
+    <link href="http://carmenez.github.io/2016/06/23/01sfpc101/"/>
+    <id>http://carmenez.github.io/2016/06/23/01sfpc101/</id>
+    <published>2016-06-23T22:08:33.000Z</published>
+    <updated>2016-07-31T03:02:10.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/txQihZ6.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/txQihZ6.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;mdash;The space ship has docked, I met the other life forms that will be attending the school for poetic computation for the next 10 weeks with me. output:  clear, concise, art and code.&amp;mdash; 16 new humans!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/fYrDP3E.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/fYrDP3E.png&quot;&gt;&lt;/a&gt;we asked questions, some of mine were:&lt;/p&gt;
+&lt;p&gt;what insights curiosity? self ignition? How can we engage “hands-free”? How can I bring the SFPC pedagogy {i learned a new word}  to life/career/institutions? What are important questions to ask when making interactive art? How do you decide the scale? How do you make interactive art’s tech reliable? hardware? software? How much do technical skills matter? What topics are best for new media art?  What is practical cryptology? How does creativity in the process–shape our life experience? How do I make the process a project? to manage and FINISH projects? How about making this a business? How do I openframeworks? How can I incorporate code art on the digital platform into or translate it to the physical object or experience? How do I make experiences that everyone can/wants to engage in?&lt;br&gt;sfpc Code of Conduct [do’s &amp;amp; dont’s] +we met dan shiffman! 01001111 01001101 01000111 !!&lt;/p&gt;
+&lt;p&gt;////////////////////////////////////////////////////////////////////////////////////////////////&lt;/p&gt;
+&lt;p&gt;constraint: within 10 blocks N+S of SFPC look for:&lt;/p&gt;
+&lt;p&gt;the tiniest street&lt;br&gt;residents who have lived here the longest [55 years]&lt;br&gt;variety of languages [german, swahili, urdu, spanish, (lil’bit)japanese]&lt;br&gt;the most expensive thing [$160,000 4Karat diamond]&lt;br&gt;art [high line – one billion beta selfies]&lt;br&gt;tourists taking pictures&lt;br&gt;most interesting book &amp;amp; magazine [kim jong il looking at things/&lt;strong&gt;_&lt;/strong&gt;]&lt;br&gt;make a map of the area&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Ya0Z8hy.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/qWQYjmi.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/j188MgE.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/SkqEw8C.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IX3KuAu.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/alJI3eL.png&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/txQihZ6.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img style=&quot;margin-bottom: 5px&quot; src=&quot;http://i.imgur.com/txQih
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mysterious fruits</title>
+    <link href="http://carmenez.github.io/2016/06/23/10mysterious%20fruits/"/>
+    <id>http://carmenez.github.io/2016/06/23/10mysterious fruits/</id>
+    <published>2016-06-23T22:08:33.000Z</published>
+    <updated>2016-07-31T02:25:30.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/9JjYWVX.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/9JjYWVX.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a cezanne bananna&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/KMeM3t0.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;img-xsmall&quot; src=&quot;http://i.imgur.com/KMeM3t0.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;dali blueberries&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/Aqf4DB7.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img class=&quot;img-xsmall&quot; src=&quot;http://i.imgur.com/Aqf4DB7.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gene Kogan came in and spoke with us about machine learning.  Nahee taught me how to do style transfers with robots and fruits.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/WMF3mtt.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WMF3mtt.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/skOedz3.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/skOedz3.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/9JjYWVX.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/9JjYWVX.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a cezanne b
     
     </summary>
     
@@ -299,101 +374,26 @@
   </entry>
   
   <entry>
-    <title>binary games</title>
-    <link href="http://carmenez.github.io/2016/06/23/03computing%20binary%20games/"/>
-    <id>http://carmenez.github.io/2016/06/23/03computing binary games/</id>
+    <title>sfpc salon</title>
+    <link href="http://carmenez.github.io/2016/06/23/04sfpcSalon/"/>
+    <id>http://carmenez.github.io/2016/06/23/04sfpcSalon/</id>
     <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T03:02:13.000Z</updated>
+    <updated>2016-07-31T03:02:11.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/YUp3xFH&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/YUp3xFH.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;mdash; &lt;/p&gt;
-&lt;p&gt;Creating Binary Games was really challenging fun.  Individuals moved between systems for teaching binary as well as tools for quick conversion of binary numbers to base 10 numbers.  Min and I came up with Binary Stairs, a combination of twister and musical chairs.  In this 2 player game, the values of each bit are placed on a stair.  Anyone calls out a number or binary code and you have to touch each bit that represents the base 10 number or binary pattern. Nahee and brandon each came up with a great ways to teach binary using a rescuing scenario board game and a measured representations of the bits to get their corresponding bit pattern.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Programming: lets discuss and demystify.  Just talking vocabulary…&lt;/p&gt;
-&lt;p&gt;what is computation? Numbers? Computers? Processes that solve and translate? here are our thoughts.&lt;/p&gt;
-&lt;p&gt;:: input/output :: symbols :: memory :: usb :: processor [cpu] :: sensors [keyboard &amp;amp; mouse] :: output [screen] :: I/O busses :: wifi :: conductive :: abstraction/modeling :: metal :: silicon :: copper :: fans :: temperature :: capacitors :: resistors :: batteries :: lights :: motherboard :: electricity ::&lt;/p&gt;
-&lt;p&gt;these words reminds me of a functioning 22nd century city- maybe an electric city with radiant atmospheres.  I could even imagine this city as a virtual model with integrated sensors aka. people called capacitors.  The rebels, who want to mix reality are the resistors.  but the motherboard doesn’t like the symbol of freedom so they are taken to the batteries via I/O busses driven by wifi memory conductors to be processed.  high temperatures spilling blood and light out of usbs installed on resistor wrists.   high fans built of metal cool silicon and copper models being made by capacitors.  only 10110110 11010111 left.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Programming: lets discuss and demystify.  Just talking vocabulary…&lt;/p&gt;
-&lt;p&gt;what is computation? Numbers? Computers? Processes that solve and translate? here are our thoughts.&lt;/p&gt;
-&lt;p&gt;:: input/output :: symbols :: memory :: usb :: processor [cpu] :: sensors [keyboard &amp;amp; mouse] :: output [screen] :: I/O busses :: wifi :: conductive :: abstraction/modeling :: metal :: silicon :: copper :: fans :: temperature :: capacitors :: resistors :: batteries :: lights :: motherboard :: electricity ::&lt;/p&gt;
-&lt;p&gt;these words reminds me of a functioning 22nd century city- maybe an electric city with radiant atmospheres.  I could even imagine this city as a virtual model with integrated sensors aka. people called capacitors.  The rebels, who want to mix reality are the resistors.  but the motherboard doesn’t like the symbol of freedom so they are taken to the batteries via I/O busses driven by wifi memory conductors to be processed.  high temperatures spilling blood and light out of usbs installed on resistor wrists.   high fans built of metal cool silicon and copper models being made by capacitors.  only 10110110 11010111 left.&lt;/p&gt;
-&lt;p&gt;I guess thats an accurate representation of my brain-short tangential distractions welcome.&lt;/p&gt;
-&lt;p&gt;&amp;mdash; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/sJPpPlx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/sJPpPlx.jpg?1&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Building-Blocks-of-Code&quot;&gt;&lt;a href=&quot;#Building-Blocks-of-Code&quot; class=&quot;headerlink&quot; title=&quot;Building Blocks of Code:&quot;&gt;&lt;/a&gt;Building Blocks of Code:&lt;/h3&gt;&lt;p&gt;Command Line :: terminal, Scode, editors&lt;/p&gt;
-&lt;p&gt;IDE :: integrated development environment [examples: processing &amp;amp; arduino]&lt;/p&gt;
-&lt;p&gt;Function :: the relationship between input and output, the method &amp;amp; actions&lt;/p&gt;
-&lt;p&gt;Control Structure :: Loop :: repetition :: IF :: conditional&lt;/p&gt;
-&lt;p&gt;Variable :: holds a value, small units, can change&lt;/p&gt;
-&lt;p&gt;Object :: class&lt;/p&gt;
-&lt;p&gt;Alert :: debugging, walkthrough, log, breakpoint&lt;/p&gt;
-&lt;p&gt;Data Structure :: array :: way to store info&lt;/p&gt;
-&lt;p&gt;Operators :: +  –  *   /&lt;/p&gt;
-&lt;p&gt;Syntax :: . ( ) [ ] ;&lt;/p&gt;
-&lt;p&gt;Data Types :: float :: int :: string ::&lt;/p&gt;
-&lt;p&gt;Library :: pre-made functions and variables available for “calling”&lt;/p&gt;
-&lt;p&gt;constant :: gravity :: pi :: global or user defined&lt;/p&gt;
-&lt;p&gt;Console :: environment&lt;/p&gt;
-&lt;p&gt;Comments :: //text [not processed]&lt;/p&gt;
-&lt;p&gt;Protection :: public : accessible everywhere :: private :: inaccessible [secret]&lt;/p&gt;
-&lt;p&gt;Scope :: what an element means in context&lt;/p&gt;
-&lt;p&gt;Compilation :: parsing :: white space removed :: goes through text :: assembly:: machine code :: binary&lt;/p&gt;
-&lt;p&gt;Imperative//Declarative//Functional&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/YUp3xFH&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/YUp3xFH.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>joyDivision</title>
-    <link href="http://carmenez.github.io/2016/06/23/14joyDivision/"/>
-    <id>http://carmenez.github.io/2016/06/23/14joyDivision/</id>
-    <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T03:04:11.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/LDmrCrE.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LDmrCrE.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://i.imgur.com/LDmrCrE.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LDmrCrE.png&quot; title=&quot;source: imgur.co
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>face++</title>
-    <link href="http://carmenez.github.io/2016/06/23/05face++/"/>
-    <id>http://carmenez.github.io/2016/06/23/05face++/</id>
-    <published>2016-06-23T22:08:33.000Z</published>
-    <updated>2016-07-31T03:02:14.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Face++ started from SnapChat.  We were swapping faces and noticed that there were a few facial recognition commands that the application recognized. We decided to expand our language from a – “Open your mouth” and “Raise your eyebrows” – to 16 different facial expressions.&lt;br&gt;We decided to figure out a way to write a programming language that would run on laughter.  You can write using your face and once you’ve created your code, trigger laughter to compile and run it.  Melanie pointed out that this would actually be a great programming language for people with disabilities, more specifically targeting those who are paralyzed from the neck down.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/TENeAVa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/TENeAVa.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/00KtvGv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/00KtvGv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/EvMQB8i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/EvMQB8i.png&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Experimenting a little bit with the code, we switched in some images from the Codex Seraphinianus to generate some beautiful tiling patterns, resulting in the featured image.&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/170358067&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/170358067&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;codex&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/hyphenlabs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hyphen_labs&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://imgur.com/pjF4ln4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/pjF4ln4.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We didn’t have class today, but we got to see some amazing speakers as well as spend some time in the space.&lt;/p&gt;
+&lt;p&gt;As I am looking over my notes these are the things that stand out to me:&lt;br&gt;Be Agressively Curious&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/aSpXzaJ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/aSpXzaJ.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;post-center&quot;&gt;Try to be a collector&lt;br&gt;&lt;br&gt;The world is hungry for your ideas&lt;br&gt;&lt;br&gt;Questions lead to conversations which lead to learning&lt;br&gt;&lt;br&gt;Ask about anything…SFPC’s resources work for us now&lt;br&gt;&lt;br&gt;Together we know more&lt;br&gt;&lt;br&gt;Simplicity is key&lt;br&gt;&lt;br&gt;Artistic practice is research&lt;br&gt;&lt;br&gt;Take your time to learn things&lt;br&gt;&lt;br&gt;Surround yourself with people that help you understand your value &amp;amp; are supportive.&lt;br&gt;&lt;br&gt;APPLY TO EVRYTHING!&lt;/div&gt;
 
-&lt;p&gt;Some other really beautiful coding languages were created.  Melanie translated a simple, “helloWorld” to 7 of the most common languages. And Max created a mobile to hang above your babies crib so your child can get familiar with coding(?). KristaAnn created a programming language from Tarot Cards, and Min created instructions for programmers. (i think)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://imgur.com/o4AfCOW&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/o4AfCOW.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/z1yBBvv&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/z1yBBvv.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/3zTtEkq&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/3zTtEkq.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Juliette Bibasse&lt;br&gt;&lt;a href=&quot;http://imgur.com/285rtDf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/285rtDf.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://imgur.com/Ac7Aajr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Ac7Aajr.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://imgur.com/WuuIpY3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/WuuIpY3.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
+      &lt;p&gt;&lt;a href=&quot;http://imgur.com/pjF4ln4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/pjF4ln4.jpg&quot; title=&quot;source: imgur.com&quot;&gt;&lt;/a
     
     </summary>
     
