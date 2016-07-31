@@ -3,10 +3,6 @@ title: sfpc 101
 date: 2016-06-01 21:47:33
 tags:
 ---
-
-
-
-
 <a href="http://i.imgur.com/txQihZ6.png">
 <img style="margin-bottom: 5px" src="http://i.imgur.com/txQihZ6.png"/></a>
 

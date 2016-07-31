@@ -1,10 +1,8 @@
 ---
-title: fun rules
+title: rules
 date: 2016-06-02 13:53:56
 tags:
 ---
-
-
 <a href="http://imgur.com/b83ieOC"><img src="http://i.imgur.com/b83ieOC.png" title="source: imgur.com" /></a>
 
 Day 2.  I’m getting used to a longer commute, I can usually read one (maaayyybbbeee 2) pages over and over about 4-6 times from the Morgan stop on the L to 14th.  I get distracted by all the New Yorkers shuttled around in little tin cans coming, going, and hosting all sorts.  The metro doesn’t discriminate.

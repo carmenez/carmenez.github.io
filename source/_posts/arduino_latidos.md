@@ -1,5 +1,5 @@
 ---
-title: Arduino_latidos del corazon
+title: arduino latidos
 date: 2016-07-12 14:05:53
 tags:
 ---

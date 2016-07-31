@@ -4,7 +4,7 @@ date: 2016-07-08 14:05:53
 tags:
 
 ---
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Jm7XZ"><a href="//imgur.com/a/Jm7XZ">nono</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Code and Platform asked us to evaluate an existing platform re-imagine it in a different light.  I chose to explore the iPhone OS as a platform.  
 
@@ -20,4 +20,3 @@ check out: nono.
 
 Nono is an app to get you off your apps.  With padawan, jedi, and zen master levels, you can choose to be distraction free for 5, 15, or 30 minutes.  It's black screen with the letters n-o-n-o will remind you that, your phone-free time hasn't ended and to put the phone away and engage with the world around you. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Jm7XZ"><a href="//imgur.com/a/Jm7XZ">nono</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

@@ -1,15 +1,12 @@
 ---
-title: Recreating the Past - Muriel Cooper
+title: muriel cooper remix
 date: 2016-07-14 14:05:53
 tags:
 ---
-
-
-Investigating past computational artists led us to get to know the work of Muriel Cooper and John Maeda.  I am inspired by these images: 
-
 Muriel::
 <a href="http://imgur.com/xOcV6A5"><img class="img-small" src="http://i.imgur.com/xOcV6A5.jpg" title="source: imgur.com" /></a>
 
+Investigating past computational artists led us to get to know the work of Muriel Cooper and John Maeda.  I am inspired by these images: 
 
 Carmen:
 <iframe src="https://player.vimeo.com/video/176864468" width="640" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -3,7 +3,6 @@ title: binary games
 date: 2016-06-03
 tags:
 ---
-
 <a href="http://imgur.com/YUp3xFH"><img src="http://i.imgur.com/YUp3xFH.jpg" title="source: imgur.com" /></a>
 
 &mdash; 

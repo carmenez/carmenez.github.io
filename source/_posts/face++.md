@@ -3,7 +3,6 @@ title: face++
 date: 2016-06-12 14:05:53
 tags:
 ---
-
 <a href="http://imgur.com/WuuIpY3"><img src="http://i.imgur.com/WuuIpY3.jpg" title="source: imgur.com" /></a>
 
 Face++ started from SnapChat.  We were swapping faces and noticed that there were a few facial recognition commands that the application recognized. We decided to expand our language from a – “Open your mouth” and “Raise your eyebrows” – to 16 different facial expressions.

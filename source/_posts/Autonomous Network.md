@@ -3,6 +3,8 @@ title: autonomous network
 date: 2016-06-28 14:05:53
 tags:
 ---
+<a href="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg"><img src="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg" title="source: lineposters.com" /></a>
+
 Prompt: Create an autonomous online network
 
 Well, what is an autonomous network?
@@ -13,4 +15,4 @@ An autonomous network allows the users to deflect "normal" networking systems. I
 
 What if a [mesh] network could exist so individuals could get real time information from somewhere above the water table.  If a train has been stopped for more than 10 minutes, an autonomous network would appear and allow us to find out from news sources if there has been a malfunction, an attack, any issue that has caused the infrastructure to stop performing and alert us to alternatives on how to move around, giving us control of our commute.
 
-<a href="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg"><img src="http://www.underconsideration.com/quipsologies/quip_images/tumblr_lv36gvRrWn1qge8fmo5_1280.jpg" title="source: lineposters.com" /></a>
+x
