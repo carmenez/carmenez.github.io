@@ -1,7 +1,8 @@
 ---
 title: arduino latidos
-date: 2016-07-12 14:05:53
+<!--date: 2016-07-12 14:05:53-->
 tags:
+order:75
 ---
 <a href="http://i.imgur.com/2w18Hpm.png"><img src="http://i.imgur.com/2w18Hpm.png" /></a>
 

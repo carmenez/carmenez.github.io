@@ -1,7 +1,8 @@
 ---
 title: muriel cooper remix
-date: 2016-07-14 14:05:53
+<!--date: 2016-07-14 14:05:53-->
 tags:
+order: 80
 ---
 Muriel::
 <a href="http://imgur.com/xOcV6A5"><img class="img-small" src="http://i.imgur.com/xOcV6A5.jpg" title="source: imgur.com" /></a>

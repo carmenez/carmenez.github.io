@@ -4,7 +4,7 @@ title: pedagogy
 tags:
 order:95
 ---
-<a href="http://i.imgur.com/Up5MDWG.jpg"><img src="http://i.imgur.com/Up5MDWG.jpg" title="source: imgur.com" /></a>-->
+<a href="http://i.imgur.com/Up5MDWG.jpg"><img src="http://i.imgur.com/Up5MDWG.jpg" title="source: imgur.com" /></a>
 
 crescendo institute
 

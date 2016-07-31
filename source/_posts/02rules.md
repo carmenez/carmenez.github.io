@@ -1,7 +1,8 @@
 ---
 title: rules
-date: 2016-06-02 13:53:56
+<!--date: 2016-06-02 13:53:56-->
 tags:
+order: 10
 ---
 <a href="http://imgur.com/b83ieOC"><img src="http://i.imgur.com/b83ieOC.png" title="source: imgur.com" /></a>
 

@@ -1,7 +1,8 @@
 ---
 title: platform
-date: 2016-06-12 14:05:53
+<!--date: 2016-06-12 14:05:53-->
 tags:
+order: 30
 ---
 <a href="http://imgur.com/0P2uLbg"><img src="http://i.imgur.com/0P2uLbg.png" title="source: imgur.com" /></a>
 

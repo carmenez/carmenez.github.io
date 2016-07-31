@@ -1,12 +1,12 @@
 ---
 title: platform subversion
-date: 2016-07-08 14:05:53
+<!--date: 2016-07-08 14:05:53-->
 tags:
-
+order:70
 ---
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Jm7XZ"><a href="//imgur.com/a/Jm7XZ">nono</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Code and Platform asked us to evaluate an existing platform re-imagine it in a different light.  I chose to explore the iPhone OS as a platform.  
+Code and Platform asked us to evaluate an existing platform re-imagine it in a different light. I chose to explore the iPhone OS as a platform.  
 
 The idea of this prompt was to look at an existing platform, (i.e. old gaming console or language) and re-imagine it with another use. Hyperattention, and the cell phone as an extension of our "selves" has created a peculiar relationship with our "personal" technology. 
 
