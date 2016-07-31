@@ -5,9 +5,11 @@ tags:
 ---
 <a href="http://i.imgur.com/9JjYWVX.png"><img src="http://i.imgur.com/9JjYWVX.png"  /></a>
 
+a cezanne bananna
 <a href="http://i.imgur.com/KMeM3t0.jpg"><img class="img-xsmall" src="http://i.imgur.com/KMeM3t0.jpg" /></a>
 
-<a href="http://imgur.com/rMoRtAX"><img class="img-xsmall" src="http://i.imgur.com/rMoRtAX.jpg" title="source: imgur.com" /></a>
+dali blueberries
+<a href="[Imgur](http://i.imgur.com/Aqf4DB7.jpg)"><img class="img-xsmall" src="[Imgur](http://i.imgur.com/Aqf4DB7.jpg)" /></a>
 
 Gene Kogan came in and spoke with us about machine learning.  Nahee taught me how to do style transfers with robots and fruits.
 
