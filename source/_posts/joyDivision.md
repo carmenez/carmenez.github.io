@@ -1,6 +1,6 @@
 ---
 title: joyDivision
-<!--date: 2016-07-19 14:05:53-->
+date: 2016-07-19 14:05:53
 tags:
 order: 90
 ---
